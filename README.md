@@ -1,6 +1,6 @@
 #### About Me
 
-I am a software engineer working at the intersection of high-performance computing and big data analytics. My interests include computational linear algebra, GPGPU, and open source software development. I sometimes post my thoughts to the [fml blog](https://fml-fam.github.io/blog/). I am one of the main developers of the [pbdR project](https://pbdr.org/) for integrating the R language in HPC environments.
+I am a software engineer working at the intersection of high-performance computing (HPC) and big data analytics. My interests include computational linear algebra, GPGPU, and open source software development. I sometimes post my thoughts to the [fml blog](https://fml-fam.github.io/blog/). I am one of the main developers of the [pbdR project](https://pbdr.org/) for integrating the R language in HPC environments. I also built and maintain the [HPCRAN](https://hpcran.org/), which is an R package repository for HPC packages.
 
 #### Open Source Activity
 
