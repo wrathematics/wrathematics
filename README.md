@@ -1,8 +1,6 @@
 #### About Me
 
-I am a software engineer working at the intersection of high-performance computing and big data analytics. My interests include computational linear algebra, GPGPU, and open source software development.
-
-I sometimes post my thoughts to the [fml blog](https://fml-fam.github.io/blog/). I am one of the main developers of the [pbdR project](https://pbdr.org/) for integrating the R language in HPC environments.
+I am a software engineer working at the intersection of high-performance computing and big data analytics. My interests include computational linear algebra, GPGPU, and open source software development. I sometimes post my thoughts to the [fml blog](https://fml-fam.github.io/blog/). I am one of the main developers of the [pbdR project](https://pbdr.org/) for integrating the R language in HPC environments.
 
 #### Open Source Activity
 
@@ -18,8 +16,5 @@ I sometimes post my thoughts to the [fml blog](https://fml-fam.github.io/blog/).
 
 #### Contact
 
-<p align="center">
-<br>
-<a href="https://twitter.com/wrathematics" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-<a href="mailto:wrathematics@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
+* wrathematics at gmail
+* wrathematics at twitter
