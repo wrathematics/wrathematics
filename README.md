@@ -9,6 +9,12 @@ I am a software engineer working at the intersection of high-performance computi
 * Vazhkudai, S.S., de Supinski, B.R., Bland, A.S., Geist, A., Sexton, J., Kahle, J., Zimmer, C.J., Atchley, S., Oral, S., Maxwell, D.E. and Larrea, V.G.V., 2018, November. The design, deployment, and evaluation of the CORAL pre-exascale systems. In [SC18: International Conference for High Performance Computing, Networking, Storage and Analysis (pp. 661-672)](https://ieeexplore.ieee.org/abstract/document/8665810/). IEEE.
 * Schmidt, D., Chen, W.C., Matheson, M.A. and Ostrouchov, G., 2017. Programming with BIG data in R: Scaling analytics from one to thousands of nodes. [Big Data Research, 8, pp.1-11.](https://www.sciencedirect.com/science/article/abs/pii/S221457961630065X)
 
+#### Writing Samples
+
+* [Matrix Computations in Constrained Memory Environments](https://fml-fam.github.io/blog/2021/06/29/matrix-computations-in-constrained-memory-environments/)
+* [Matrix Factorizations for Data Analysis](https://fml-fam.github.io/blog/2020/07/03/matrix-factorizations-for-data-analysis/)
+* [Comparing Symmetric Eigenvalue Performance](https://librestats.com/2016/10/28/comparing-symmetric-eigenvalue-performance/)
+* [Floating Point Arithmetic Is Hilarious](https://librestats.com/2015/04/17/floating-point-arithmetic-is-hilarious/)
 
 #### Open Source Activity
 
