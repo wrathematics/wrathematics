@@ -1,6 +1,6 @@
 #### About Me
 
-Educator and software engineer. I spent a decade working in the public research space at the intersection of high-performance computing (HPC) and big data analytics. Spent a lot of time thinking about computational linear algebra, GPGPU, and open source software development.
+software engineer and educator. I spent a decade working in the public research space at the intersection of high-performance computing (HPC) and big data analytics. Spent a lot of time thinking about computational linear algebra, GPGPU, and open source software development.
 
 I teach a course on [the computer science of data science](https://github.com/wrathematics/CSODS). Sometimes I post my thoughts to the [fml blog](https://fml-fam.github.io/blog/). I am one of the main developers of the [pbdR project](https://pbdr.org/) for integrating the R language in HPC environments. I also built and maintain the [HPCRAN](https://hpcran.org/), which is an R package repository for HPC packages.
 
